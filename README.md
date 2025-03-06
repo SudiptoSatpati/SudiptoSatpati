@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudiptosatpati" alt="sudiptosatpati" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/supito satpati" target="blank"><img src="https://img.shields.io/twitter/follow/supito satpati?logo=twitter&style=for-the-badge" alt="supito satpati" /></a> </p>
+<p align="left"> <a href="https://leetcode.com/u/sudiptosatpati/" target="blank"><img src="https://img.shields.io/twitter/follow/supito satpati?logo=twitter&style=for-the-badge" alt="supito satpati" /></a> </p>
 
 - 🌱 I’m currently learning **JAVA**
 
